@@ -1,2 +1,4 @@
-# Retail-Performance-Dashboard
-Power BI dashboard analyzing sales, profit, and customer trends from 2014–2017.
+# Retail Performance Dashboard (Power BI)
+
+## Project Objective
+This Power BI project analyzes retail data from 2014 to 2017, providing actionable insights into sales, profit, and customer behavior.
