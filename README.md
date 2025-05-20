@@ -28,3 +28,5 @@ This project improved my skills in:
 - <a href="https://github.com/Kenjale15/Retail-Performance-Dashboard/blob/main/Screenshot.png"> Dashboard </a>
 
 ## Dashboard
+
+"D:\power BI\First Dashboard.pbix"
