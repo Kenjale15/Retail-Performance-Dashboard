@@ -24,7 +24,7 @@ This project improved my skills in:
 - Turning raw data into meaningful insights
 
 
-##Dashboard Interaction 
+## Dashboard Interaction 
 - <a href="https://github.com/Kenjale15/Retail-Performance-Dashboard/blob/main/Screenshot.png"> Dashboard </a>
 
-##Dashboard
+## Dashboard
