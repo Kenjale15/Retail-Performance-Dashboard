@@ -31,3 +31,16 @@ This project improved my skills in:
 
 ![Screenshot](https://github.com/user-attachments/assets/e5090245-bac8-4e70-af8a-e42d9794b83f)
 
+## 📊 Project Insight
+- This dashboard analyzes retail performance between 2014–2017, uncovering key business trends.
+- The analysis revealed a consistent decline in sales over time, with Furniture and Technology being the top-selling categories.
+- Canon Image Class D660 Copier emerged as the highest-selling product.
+- The Technology category and the Western region generated the highest profits.
+- Additionally, higher discounts were found to negatively impact profitability.
+- Corporate customers contributed the most revenue, with an average profit per customer of ₹220.83.
+- These insights offer a clear view of product performance, customer value, and regional sales dynamics.
+
+## Conclusion
+Built as part of my data analyst learning journey. Feedback is welcome!
+ 
+
