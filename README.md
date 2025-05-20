@@ -29,4 +29,5 @@ This project improved my skills in:
 
 ## Dashboard
 
-"D:\power BI\First Dashboard.pbix"
+![Screenshot](https://github.com/user-attachments/assets/e5090245-bac8-4e70-af8a-e42d9794b83f)
+
